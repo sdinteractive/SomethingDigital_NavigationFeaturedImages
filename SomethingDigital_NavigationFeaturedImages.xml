@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <SomethingDigital_NavigationFeaturedImages>
+            <active>true</active>
+            <codePool>local</codePool>
+        </SomethingDigital_NavigationFeaturedImages>
+    </modules>
+</config>
